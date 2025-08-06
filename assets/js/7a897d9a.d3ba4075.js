@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatabook_arda=self.webpackChunkdatabook_arda||[]).push([[9289],{3445:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/databook-arda/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

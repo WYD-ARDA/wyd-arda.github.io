@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdatabook_arena=self.webpackChunkdatabook_arena||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/databook-arda/blog","blogTitle":"Blog","authorsListPath":"/databook-arda/blog/authors"}')}}]);
